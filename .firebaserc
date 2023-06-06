@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "learningangular-ae7a8": {
+      "hosting": {
+        "learningangular": [
+          "learningangular-ae7a8"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "learningangular-ae7a8"
+  }
+}
